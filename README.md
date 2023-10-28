@@ -25,7 +25,7 @@ Here's a basic outline of how you can approach this task:
     - Create new features if required. For example, you can create a new feature 'family_size' by combining 'sibsp' and 'parch'.
     - Extract relevant information from existing features. For instance, extract titles from the 'Name' column.
 
-3. **Model Selection and Training:
+3. Model Selection and Training:
     - Choose a suitable classification algorithm, such as logistic regression, decision trees, random forests, or support vector machines.
     - Train the model on the training data.
 
