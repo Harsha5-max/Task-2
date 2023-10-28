@@ -1,5 +1,18 @@
 # BharatIntern Task-2 : Titanic Classification
-I am thrilled to share that I have successfully completed a comprehensive data science task as part of the BharatIntern program. The task involved developing a sophisticated system to predict the likelihood of survival during the Titanic sinking disaster, focusing on crucial factors such as socio-economic status, age, and gender, among others.
+    I am thrilled to share that I have successfully completed a comprehensive data science task as part of the BharatIntern program. The task involved developing a sophisticated system to predict the likelihood of survival during the Titanic sinking disaster, focusing on crucial factors such as socio-economic status, age, and gender, among others.
+
+This project aims to predict whether a person would survive the sinking of the Titanic based on various factors such as socio-economic status, age, gender, and more. The system utilizes machine learning techniques to make predictions.
+
+Description:
+
+The Titanic Survival Prediction System is built using a dataset containing information about the passengers aboard the Titanic, such as their socio-economic status, age, gender, and other relevant features. By employing various machine learning algorithms, the system can determine the likelihood of a person surviving the disaster based on the provided input data.
+
+Features:
+
+Socio-Economic Status: Analyzing the impact of passenger class on survival rates.
+Age: Studying the relationship between age and the likelihood of survival.
+Gender: Investigating the influence of gender on survival probabilities.
+Machine Learning Models: Utilizing classification algorithms for prediction, such as logistic regression, decision trees, random forests, or support vector machines.
 
 Here's a basic outline of how you can approach this task:
 
